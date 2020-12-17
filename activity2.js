@@ -5,5 +5,5 @@ function get_score() {
 }
 
 function back() {
-    window.location.replace("activity_1.html");
+    window.location.replace("index.html");
 }
